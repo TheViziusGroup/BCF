@@ -1,3 +1,8 @@
+# Author: vizius.com
+# Date: July 02, 2024
+# Purpose: Macro to generate remediation plan in the Risk Analysis spreadsheet
+# License: https://github.com/TheViziusGroup/BCF/blob/main/LICENSE
+
 Sub UpdateRemPlanSheets()
     Dim wsRemPlanT1 As Worksheet
     Dim wsRemPlanT2 As Worksheet
